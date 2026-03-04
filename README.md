@@ -167,5 +167,3 @@ Khai thác thành công có thể dẫn đến:
 ## 5. Giảm thiểu & Khắc phục
 
 - Cập nhật lên phiên bản mới nhất đã được vá lỗi
-
-```
