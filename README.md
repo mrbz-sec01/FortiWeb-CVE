@@ -140,7 +140,7 @@ python3 exploit.py <FortiWeb IP>
 ![Exploit Result](images/evidence-fortiweb.png)
 
 
-### 3.6 hai thác CVE-2025-58034 sau khi đăng nhập bằng tài khoản mới
+### 3.6 Khai thác CVE-2025-58034 sau khi đăng nhập bằng tài khoản mới
 Sử dụng lệnh cấu hình:
 ```
 config user saml-user
@@ -167,3 +167,4 @@ Khai thác thành công có thể dẫn đến:
 ## 5. Giảm thiểu & Khắc phục
 
 - Cập nhật lên phiên bản mới nhất đã được vá lỗi
+
