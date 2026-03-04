@@ -168,14 +168,4 @@ Khai thác thành công có thể dẫn đến:
 
 - Cập nhật lên phiên bản mới nhất đã được vá lỗi
 
----
-
-# Cấu trúc Repository
-
-```
-CVE-2025-64446 & CVE-2025-58034/
-│
-├── CVE-2025-64446 & CVE-2025-58034.md
-└── images/
-    └── *.png
 ```
